@@ -3,7 +3,7 @@ import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
 
-public class CalculatorTest {
+public class calculatorTest {
     @Test
     public void testAdd() {
         assertEquals(10.0, Calculator.add(5.0, 5.0), 0.0001);
