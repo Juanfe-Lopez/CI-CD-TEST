@@ -31,5 +31,8 @@
             <scope>test</scope>
         </dependency>
     </dependencies>
+    <build>
+        <finalName>devops-integration</finalName>
+    </build>
 
 </project>
